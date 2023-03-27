@@ -1,0 +1,36 @@
+body{
+background-color: rgb(117, 143, 134);
+
+}
+
+nav{
+padding: 20px;
+border-radius: 10px;
+background-color: aquamarine;
+
+}
+li{
+color: black;
+
+}
+
+
+
+ul{
+    
+    background-color: rgb(164, 209, 209);
+    text-decoration: none;
+    padding: 1px;
+    color:black
+
+
+}
+a:hover{
+color: rgb(56, 207, 195);
+
+}
+table{
+background-color:  aquamarine;
+padding: 20px;
+width: 25%;
+}
