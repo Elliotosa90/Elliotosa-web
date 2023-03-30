@@ -1,12 +1,12 @@
 body{
-background-color: rgb(117, 143, 134);
+background-color: rgb(92, 128, 115);
 
 }
 
 nav{
 padding: 20px;
 border-radius: 10px;
-background-color: aquamarine;
+background-color:  rgb(164, 209, 209);
 
 }
 li{
@@ -30,7 +30,7 @@ color: rgb(56, 207, 195);
 
 }
 table{
-background-color:  aquamarine;
-padding: 20px;
+background-color:  rgb(164, 209, 209);
+padding: 30px;
 width: 25%;
 }
